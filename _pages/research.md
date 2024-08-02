@@ -7,7 +7,7 @@ author_profile: true
 
 ### Publications
 
-<span style="text-decoration:underline"> [title](link) </span>
+<span style="text-decoration:underline"> [The Impact of Preferred Provider Incentives on Demand and Negotiated Prices](link) </span>
 
 
 ### Working Papers
