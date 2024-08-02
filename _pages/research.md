@@ -5,12 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-### Anchor Tag (aka. Link)
+### Working Papers
 
-This is an example of a [link](http://github.com "Github").
 
-{% include base_path %}
+"Are Medicaid and Medicare patients treated equally?'' (With Abe Dunn, Eli Liebman, and Adam Shapiro)  [link](https://www.frbsf.org/wp-content/uploads/wp2024-14.pdf "medicaid_duals").
 
-{% for post in site.research reversed %}
-  {% include archive-single.html %}
-{% endfor %}
