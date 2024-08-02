@@ -10,7 +10,7 @@ author_profile: true
 [The Impact of Preferred Provider Incentives on Demand and Negotiated Prices](/files/preferred_provider_incentives_demand_negotiated_prices_ACKLEY.pdf)<br>
 Forthcoming in *American Journal of Health Economics*
 
-<span style="text-decoration:underline"> [the](https://www.sciencedirect.com/science/article/abs/pii/S0167629622000807) </span> <br>
+<span style="text-decoration:underline"> [Tiered Cost Sharing and Health Care Demand](https://www.sciencedirect.com/science/article/abs/pii/S0167629622000807) </span> <br>
 *Journal of Health Economics* Volume 85, September 2022, 102663
 ### Working Papers
 
