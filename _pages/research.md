@@ -7,7 +7,7 @@ author_profile: true
 
 ### Publications
 
-[The Impact of Preferred Provider Incentives on Demand and Negotiated Prices](/files/preferred_provider_incentives_demand_negotiated_prices_ACKLEY.pdf)
+[The Impact of Preferred Provider Incentives on Demand and Negotiated Prices](/files/preferred_provider_incentives_demand_negotiated_prices_ACKLEY.pdf)<br>
 Forthcoming in *The American Journal of Health Economics*
 ### Working Papers
 
