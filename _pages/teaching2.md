@@ -5,7 +5,7 @@ permalink: /teaching2/
 author_profile: true
 ---
 
-### Course Materials for Introductory Macroeconomics
+### Course Materials for Introductory Macroeconomic Analysis
 
 [Syllabus](/files/syllabus_18.pdf)<br>
 
