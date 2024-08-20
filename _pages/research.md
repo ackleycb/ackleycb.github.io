@@ -26,7 +26,7 @@ Lei Ma, Irma T. Elo, Samuel H. Preston, and Andrew C. Stokes) <br> *Social Scien
 Are Medicaid and Medicare patients treated equally? (With Abe Dunn, Eli Liebman, and Adam Shapiro) 
 [[link]](https://www.frbsf.org/wp-content/uploads/wp2024-14.pdf "medicaid_duals")
 
-Determinants of Low-Cost Provider Use: Evidence from Lab Tests [link](/files/Determinants_of_lowcost_provider_use_8_19_24.pdf)<br>
+Determinants of Low-Cost Provider Use: Evidence from Lab Tests [[link]](/files/Determinants_of_lowcost_provider_use_8_19_24.pdf)
 
 ### Work in Progress
 
