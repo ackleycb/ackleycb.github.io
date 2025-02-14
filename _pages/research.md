@@ -22,17 +22,26 @@ Lei Ma, Irma T. Elo, Samuel H. Preston, and Andrew C. Stokes) <br> *Social Scien
 
 
 ### Working Papers
+[Are Medicaid and Medicare patients treated equally? (With Abe Dunn, Eli Liebman, and Adam Shapiro)](/files/Medicaid_Duals.pdf)<br>
+*under review*
 
 Are Medicaid and Medicare patients treated equally? (With Abe Dunn, Eli Liebman, and Adam Shapiro) 
 [[link]](https://www.frbsf.org/wp-content/uploads/wp2024-14.pdf "medicaid_duals")
 
-Determinants of Low-Cost Provider Use: Evidence from Lab Tests [[link]](/files/Determinants_of_lowcost_provider_use_8_19_24.pdf)
+[Determinants of Low-Cost Provider Use: Evidence from Lab Tests](/files/Determinants_of_lowcost_provider_use_8_19_24.pdf)<br>
+*revise and resubmit at Medical Care Research and Review*
+
+[Regional Price Level Estimates for Medical Services in the United States](/files/Regional_Price_Levels_draft.pdf)<br>
+
 
 ### Work in Progress
 
 Changes in Lifetime Spending and Health-Adjusted Life-Expectancy, 1996 to 2016 (with Esha Dwibedi, Abe Dunn, Lasanthi Fernando, Jonah Joffe, Justine Mallatt, Chris JL Murray, Joseph L Dieleman, and Marcia R. Weaver)
 
 Medicaid Enrollee and Provider Responses to the ACA Fee Bump: Leveraging MAX Data (with Justine Mallatt)
+
+Quantifying Productivity Growth in Medical Care Based on Acute Conditions:  Differential Trends Across the Population (with Abe Dunn and John Romley)
+
 
 
 
