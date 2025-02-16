@@ -15,5 +15,7 @@ redirect_from:
 
 
 
-Hello! I am a research economist at the U.S. Bureau of Economic Analysis. My research interests are primarily in health economics and industrial organization. I work primarily with large health claims databases from commercial insurers, Medicare, and Medicaid to study issues related to utilization, costs, and quality.
+I am a research economist at the U.S. Bureau of Economic Analysis. My research interests are primarily in health economics and industrial organization. I work primarily with large claims databases from Medicare, Medicaid, and commercial insurers to study issues related to health care costs, quality, and utilization. My overarching goal is to use rich data and empirical methods to identify ways to improve both private and public health care sytems. 
+
+
 
