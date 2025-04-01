@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
   
- [Click here for a current version of my CV](/files/ACKLEY_CV_2025.pdf)
+ [Click here for a current version of my CV](/files/CV_Calvin_Ackley_2025.pdf)
   
   
 
