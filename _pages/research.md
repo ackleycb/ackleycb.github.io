@@ -27,7 +27,6 @@ Lei Ma, Irma T. Elo, Samuel H. Preston, and Andrew C. Stokes) <br> *Social Scien
 *under review*
 
 [Regional Price Level Estimates for Medical Services in the United States](/files/Regional_Price_Levels_draft.pdf)<br>
-<br>
 *revise and resubmit at Health Services Research*
 
 [Changes in Lifetime Spending and Health-Adjusted Life-Expectancy, 1996 to 2016 (with Esha Dwibedi, Abe Dunn, Lasanthi Fernando, Jonah Joffe, Justine Mallatt, Chris JL Murray, Joseph L Dieleman, and Marcia R. Weaver)](/files/HALE_spending_draft.pdf)<br>
