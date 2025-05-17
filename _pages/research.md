@@ -7,6 +7,9 @@ author_profile: true
 
 ### Publications
 
+[Determinants of Low-Cost Provider Use: Evidence from Lab Tests](/files/Determinants_of_lowcost_provider_use_8_19_24.pdf)<br>
+*Forthcoming in Medical Care Research and Review*
+
 [The Impact of Preferred Provider Incentives on Demand and Negotiated Prices](/files/preferred_provider_incentives_demand_negotiated_prices_ACKLEY.pdf)<br>
 Forthcoming in *American Journal of Health Economics*
 
@@ -19,16 +22,13 @@ Lei Ma, Irma T. Elo, Samuel H. Preston, and Andrew C. Stokes) <br> *Social Scien
 , March 2022, 101021
 
 
-
-
 ### Working Papers
 [Are Medicaid and Medicare patients treated equally? (With Abe Dunn, Eli Liebman, and Adam Shapiro)](/files/Medicaid_Duals.pdf)<br>
 *under review*
 
-[Determinants of Low-Cost Provider Use: Evidence from Lab Tests](/files/Determinants_of_lowcost_provider_use_8_19_24.pdf)<br>
-*revise and resubmit at Medical Care Research and Review*
-
 [Regional Price Level Estimates for Medical Services in the United States](/files/Regional_Price_Levels_draft.pdf)<br>
+<br>
+*revise and resubmit at Health Services Research*
 
 [Changes in Lifetime Spending and Health-Adjusted Life-Expectancy, 1996 to 2016 (with Esha Dwibedi, Abe Dunn, Lasanthi Fernando, Jonah Joffe, Justine Mallatt, Chris JL Murray, Joseph L Dieleman, and Marcia R. Weaver)](/files/HALE_spending_draft.pdf)<br>
 *under review*
