@@ -27,10 +27,10 @@ Lei Ma, Irma T. Elo, Samuel H. Preston, and Andrew C. Stokes) <br> *Social Scien
 
 ### Working Papers
 [Are Medicaid and Medicare patients treated equally? (With Abe Dunn, Eli Liebman, and Adam Shapiro)](/files/Medicaid_Duals.pdf)<br>
-*Revise and Resubmit at American Economic Journal: Economic Policy*
+Revise and Resubmit at *American Economic Journal: Economic Policy*
 
 [Changes in Lifetime Spending and Health-Adjusted Life-Expectancy, 1996 to 2016 (with Esha Dwibedi, Abe Dunn, Lasanthi Fernando, Jonah Joffe, Justine Mallatt, Chris JL Murray, Joseph L Dieleman, and Marcia R. Weaver)](/files/HALE_spending_draft.pdf)<br>
-*Revise and Resubmit at Value in Health*
+Revise and Resubmit at *Value in Health*
 
 ### Work in Progress
 
