@@ -1,5 +1,5 @@
-/* ==========================================================================  
-   SINGLE PAGE/POST  
+/* ==========================================================================
+   SINGLE PAGE/POST
    ========================================================================== */
 
 #main {
@@ -322,17 +322,17 @@
   }
 }
 
-/* --- comment avatar: force rectangular crop and larger sizes --- */
+/* --- comment avatar: larger rectangle and no white border --- */
 
 .comment__avatar-wrapper {
   float: left;
-  width: 120px;   /* rectangle width */
-  height: 80px;   /* rectangle height */
+  width: 140px;   /* increased from 120px */
+  height: 100px;  /* increased from 80px */
   overflow: hidden; /* crop the img to the rectangle */
 
   @include breakpoint($large) {
-    width: 160px;  /* larger rectangle on larger screens */
-    height: 100px;
+    width: 200px;  /* increased from 160px */
+    height: 130px; /* increased from 100px */
   }
 }
 
@@ -342,16 +342,16 @@
   display: block;
   object-fit: cover; /* fills the wrapper, preserves aspect, crops */
   border-radius: 0;  /* make rectangular (was 50%) */
-  padding: 0;        /* override previous padding */
-  border: none;      /* override previous border if present */
+  padding: 0;        /* ensure no padding */
+  border: none;      /* remove white border */
 }
 
 .comment__content-wrapper {
   float: right;
-  width: calc(100% - 120px);
+  width: calc(100% - 140px);
 
   @include breakpoint($large) {
-    width: calc(100% - 160px);
+    width: calc(100% - 200px);
   }
 }
 
