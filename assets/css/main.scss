@@ -39,3 +39,9 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Custom avatar size */
+.author__avatar img {
+  max-width: 150px !important;
+  max-height: 150px !important;
+}
