@@ -1,8 +1,5 @@
 ---
 ---
-
----
----
 /*
  *    Minimal Mistakes Jekyll Theme
  *
@@ -36,9 +33,3 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Custom avatar size and shape */
-.author__avatar img {
-  max-width: 200px !important;
-  max-height: 250px !important;
-  border-radius: 0 !important;
-}
