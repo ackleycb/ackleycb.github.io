@@ -322,36 +322,36 @@
   }
 }
 
+/* --- comment avatar: larger rectangle and no white border --- */
+
 .comment__avatar-wrapper {
   float: left;
-  width: 60px;
-  height: 60px;
+  width: 140px;   /* increased from 120px */
+  height: 100px;  /* increased from 80px */
+  overflow: hidden; /* crop the img to the rectangle */
 
   @include breakpoint($large) {
-    width: 100px;
-    height: 100px;
+    width: 200px;  /* increased from 160px */
+    height: 130px; /* increased from 100px */
   }
 }
 
 .comment__avatar {
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-
-  @include breakpoint($large) {
-    width: 80px;
-    height: 80px;
-    padding: 5px;
-    border: 1px solid $border-color;
-  }
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover; /* fills the wrapper, preserves aspect, crops */
+  border-radius: 0;  /* make rectangular (was 50%) */
+  padding: 0;        /* ensure no padding */
+  border: none;      /* remove white border */
 }
 
 .comment__content-wrapper {
   float: right;
-  width: calc(100% - 60px);
+  width: calc(100% - 140px);
 
   @include breakpoint($large) {
-    width: calc(100% - 100px);
+    width: calc(100% - 200px);
   }
 }
 
