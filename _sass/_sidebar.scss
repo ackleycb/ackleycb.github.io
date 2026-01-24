@@ -1,5 +1,5 @@
-/* ==========================================================================  
-   SIDEBAR  
+/* ==========================================================================
+   SIDEBAR
    ========================================================================== */
 
 /*
@@ -79,7 +79,7 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 320px; /* increased from 250px */
+  width: 360px; /* increased from 320px */
   // set width only, for non-square avatars
   // height: 36px;
 
@@ -92,10 +92,12 @@
   img {
     max-width: 100%;
     border-radius: 0;
+    padding: 0; /* remove padding to eliminate white border */
+    border: none; /* remove border */
 
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
+      padding: 0; /* ensure no padding on large screens */
+      border: none; /* remove border on large screens */
     }
   }
 }
