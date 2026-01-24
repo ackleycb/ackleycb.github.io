@@ -1,6 +1,7 @@
 <article id="comment{{ include.index }}" class="js-comment comment">
   <div class="comment__avatar-wrapper">
-    <img class="comment__avatar" src="https://www.gravatar.com/avatar/{{ include.email }}?d=mm&s=80">
+    <!-- request a larger square from Gravatar (s=240) so cropping is crisp -->
+    <img class="comment__avatar" src="https://www.gravatar.com/avatar/{{ include.email }}?d=mm&s=240" alt="{{ include.name }}'s avatar">
   </div>
   <div class="comment__content-wrapper">
     <h3 class="comment__author">
