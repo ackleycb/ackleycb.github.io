@@ -7,8 +7,9 @@ author_profile: true
 
 ### Publications
 
-<span style="text-decoration:underline"> [Regional Price Level Estimates for Medical Services in the United States](https://onlinelibrary.wiley.com/doi/10.1111/1475-6773.70036) </span> <br>
-*Health Services Research* September 2025
+**Regional Price Level Estimates for Medical Services in the United States**  
+*Health Services Research* September 2025  
+[Published Version](https://onlinelibrary.wiley.com/doi/10.1111/1475-6773.70036) | [Working Paper](https://www.bea.gov/index.php/research/papers/2025/regional-price-level-estimates-medical-services-united-states)
 
 [Determinants of Low-Cost Provider Use: Evidence from Lab Tests](/files/Determinants_of_lowcost_provider_use_8_19_24.pdf)<br>
 Forthcoming in *Medical Care Research and Review*
