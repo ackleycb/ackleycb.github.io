@@ -22,11 +22,11 @@ repository               : "ackleycb/ackleycb.github.io"
 author:
   # Biographic information
   avatar           : "ackley_photo_2025.png"
-  name             : "Calvin Ackley"
-  pronouns         : # example: "she/her"  
-  bio              : "Research Economist"
+  name             : "Research Economist"
+  pronouns         : "U.S. Bureau of Economic Analysis" 
+  bio              : 
   location         : 
-  employer         : "U.S. Bureau of Economic Analysis"
+  employer         : 
   uri              : #
   email            : 
 
