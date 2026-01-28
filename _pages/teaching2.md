@@ -4,6 +4,11 @@ title: "Teaching"
 permalink: /teaching2/
 author_profile: true
 ---
+### Online Textbooks
+
+[An Introduction to R for Economic Data Analysis](https://ackleycb.github.io/intro_to_R/)       
+
+
 
 ### Course Materials for Introductory Macroeconomic Analysis
 
@@ -13,7 +18,6 @@ author_profile: true
 
 [Final Exam](/files/final_all_nosols.pdf)<br>
 
-[Introduction to R Notes](/files/R_intro_notes.pdf)<br>
 
 
 ### Teaching Evaluations
