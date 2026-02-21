@@ -28,7 +28,7 @@ author_profile: true
 *Social Science and Medicine - Population Health* Volume 17, March 2022  
 [Published Version](https://www.sciencedirect.com/science/article/pii/S2352827321002962) | [Working Paper](https://www.medrxiv.org/content/10.1101/2021.04.23.21255564v4.full.pdf)
 
-**Changes in Lifetime Spending and Health-Adjusted Life-Expectancy, 1996 to 2016** (with Esha Dwibedi, Abe Dunn, Lasanthi Fernando, Jonah Joffe, Justine Mallatt, Chris JL Murray, Joseph L Dieleman, and Marcia R. Weaver)  
+**The Value of Medical Care in the United States: Changes in Lifetime Spending and Health Adjusted Life-Expectancy, 1996 to 2016** (with Esha Dwibedi, Abe Dunn, Lasanthi Fernando, Jonah Joffe, Justine Mallatt, Chris JL Murray, Joseph L Dieleman, and Marcia R. Weaver)  
 Forthcoming in *Value in Health*  
 [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345903)
 
