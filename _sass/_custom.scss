@@ -1,0 +1,13 @@
+/* ==========================================================================
+   Custom site overrides (Calvin Ackley)
+   Loaded last in main.scss so it wins over theme defaults.
+   ========================================================================== */
+
+/* Homepage: pull the intro text's cap-height flush with the top of the photo.
+   The theme leaves the first line's leading above the capital letters, so the
+   text reads ~7px lower than the avatar's top edge. Scoped to the home page. */
+.page--home {
+  .page__content > *:first-child {
+    margin-top: -0.45em;
+  }
+}

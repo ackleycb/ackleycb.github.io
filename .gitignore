@@ -10,3 +10,12 @@ Gemfile.lock
 # Ingore files created by npm
 node_modules
 package-lock.json
+
+# Local-only Jekyll preview setup (system Ruby 2.6 workaround) — not used by GitHub Pages
+Gemfile.local
+Gemfile.local.lock
+Gemfile.orig.bak
+_config.preview.yml
+vendor/
+.bundle/
+.sass-cache/
