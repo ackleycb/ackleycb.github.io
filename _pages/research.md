@@ -28,9 +28,13 @@ author_profile: true
 *Social Science and Medicine - Population Health* Volume 17, March 2022  
 [Published Version](https://www.sciencedirect.com/science/article/pii/S2352827321002962) | [Working Paper](https://www.medrxiv.org/content/10.1101/2021.04.23.21255564v4.full.pdf) | [Code](https://github.com/ackleycb/county-level-estimates-of-excess-mortality)
 
+<img src="/images/excess_deaths_fig.png" alt="Comparison of observed and expected deaths in large counties, 2011–2020" style="display:block; width:85%; max-width:85%; aspect-ratio:2.738; height:auto; object-fit:fill;">
+
 **The Value of Medical Care in the United States: Changes in Lifetime Spending and Health Adjusted Life-Expectancy, 1996 to 2016** (with Esha Dwibedi, Abe Dunn, Lasanthi Fernando, Jonah Joffe, Justine Mallatt, Chris JL Murray, Joseph L Dieleman, and Marcia R. Weaver)  
 *Value in Health*, In Press, 2026  
 [Published Version](https://www.valueinhealthjournal.com/article/S1098-3015(26)00033-1/abstract) | [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345903) | [Code](https://github.com/ackleycb/health_adjusted_life_expectancy_spending)
+
+<img src="/images/Figure2_top8_HALE_0_65_shares_white.png" alt="HALE and lifetime spending effects by condition, split by age 0–64 and age 65+ portions" style="display:block; width:80%; max-width:80%; height:auto;">
 
 ### Working Papers
 
