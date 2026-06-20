@@ -26,11 +26,11 @@ author_profile: true
 
 **County-level Estimates of Excess Mortality Associated with COVID-19 in the United States** (with Dielle J. Lundberg, Lei Ma, Irma T. Elo, Samuel H. Preston, and Andrew C. Stokes)  
 *Social Science and Medicine - Population Health* Volume 17, March 2022  
-[Published Version](https://www.sciencedirect.com/science/article/pii/S2352827321002962) | [Working Paper](https://www.medrxiv.org/content/10.1101/2021.04.23.21255564v4.full.pdf)
+[Published Version](https://www.sciencedirect.com/science/article/pii/S2352827321002962) | [Working Paper](https://www.medrxiv.org/content/10.1101/2021.04.23.21255564v4.full.pdf) | [Code](https://github.com/ackleycb/county-level-estimates-of-excess-mortality)
 
 **The Value of Medical Care in the United States: Changes in Lifetime Spending and Health Adjusted Life-Expectancy, 1996 to 2016** (with Esha Dwibedi, Abe Dunn, Lasanthi Fernando, Jonah Joffe, Justine Mallatt, Chris JL Murray, Joseph L Dieleman, and Marcia R. Weaver)  
-Forthcoming in *Value in Health*  
-[Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345903)
+*Value in Health*, In Press, 2026  
+[Published Version](https://www.valueinhealthjournal.com/article/S1098-3015(26)00033-1/abstract) | [Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345903) | [Code](https://github.com/ackleycb/health_adjusted_life_expectancy_spending)
 
 ### Working Papers
 
