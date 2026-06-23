@@ -16,6 +16,8 @@ author_profile: true
 *Medical Care Research and Review* May 2025  
 [Published Version](https://journals.sagepub.com/doi/abs/10.1177/10775587251339935) | [Working Paper](/files/low_cost_lab_providers_wp.pdf)
 
+<img src="/images/NHLUI_by_hosp_ownership_plots.png" alt="Non-hospital lab use intensity by hospital ownership" style="display:block; width:80%; max-width:80%; height:auto;">
+
 **The Impact of Preferred Provider Incentives on Demand and Negotiated Prices**  
 *American Journal of Health Economics* Volume 11, Number 4, September 2025  
 [Published Version](https://www.journals.uchicago.edu/doi/abs/10.1086/731074?journalCode=ajhe) | [Working Paper](/files/preferred_provider_incentives_demand_negotiated_prices_ACKLEY.pdf)
