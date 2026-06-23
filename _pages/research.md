@@ -24,6 +24,8 @@ author_profile: true
 *Journal of Health Economics* Volume 85, September 2022  
 [Published Version](https://www.sciencedirect.com/science/article/abs/pii/S0167629622000807)
 
+<img src="/images/cf_demand_changes_by_plan.png" alt="Counterfactual changes in health care demand by plan" style="display:block; width:80%; max-width:80%; height:auto;">
+
 **County-level Estimates of Excess Mortality Associated with COVID-19 in the United States** (with Dielle J. Lundberg, Lei Ma, Irma T. Elo, Samuel H. Preston, and Andrew C. Stokes)  
 *Social Science and Medicine - Population Health* Volume 17, March 2022  
 [Published Version](https://www.sciencedirect.com/science/article/pii/S2352827321002962) | [Working Paper](https://www.medrxiv.org/content/10.1101/2021.04.23.21255564v4.full.pdf) | [Code](https://github.com/ackleycb/county-level-estimates-of-excess-mortality)
