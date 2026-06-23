@@ -20,6 +20,8 @@ author_profile: true
 *American Journal of Health Economics* Volume 11, Number 4, September 2025  
 [Published Version](https://www.journals.uchicago.edu/doi/abs/10.1086/731074?journalCode=ajhe) | [Working Paper](/files/preferred_provider_incentives_demand_negotiated_prices_ACKLEY.pdf)
 
+<img src="/images/price_steer_decomposition_plot.png" alt="Decomposition of negotiated price changes from preferred provider steering" style="display:block; width:80%; max-width:80%; height:auto;">
+
 **Tiered Cost Sharing and Health Care Demand**  
 *Journal of Health Economics* Volume 85, September 2022  
 [Published Version](https://www.sciencedirect.com/science/article/abs/pii/S0167629622000807)
